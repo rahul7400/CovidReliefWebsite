@@ -5,7 +5,7 @@ function fn1(){
     
 
     if(str==""){
-        alert("Please enter your city name")
+        alert("Please enter your city name");
     }else{
         var markedCheckbox = document.getElementsByName("check");  
         for (var checkbox of markedCheckbox) {  
