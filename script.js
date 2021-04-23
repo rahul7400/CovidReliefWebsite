@@ -1,6 +1,6 @@
 function fn1(){
     var str = document.getElementById("text1").value;
-    var str2 = '+-"not+verified"+-"unverified"+-"needed"+-"required"&f=live'
+    var str2 = '+-"need"+-"not+verified"+-"unverified"+-"needed"+-"required"&f=live'
     var str3 = '';
     
 
