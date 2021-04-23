@@ -6,6 +6,6 @@ in hospital or anything than this app will help you to do so.
 
 This website usually shows you all the latest <b>Twitter Tweets</b> by searching the query of your city.
 
-<img src="1.png" width="800">
+<img src="2.png" width="800">
 
 
